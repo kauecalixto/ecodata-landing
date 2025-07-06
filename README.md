@@ -75,7 +75,7 @@ A API consumida resolve problemas relacionados ao **monitoramento ambiental**, p
 
 1. **Clone o repositório:**
 \`\`\`bash
-git clone https://github.com/seu-usuario/ecodata-landing.git
+git clone https://github.com/kauecalixto/ecodata-landing.git
 cd ecodata-landing
 \`\`\`
 
